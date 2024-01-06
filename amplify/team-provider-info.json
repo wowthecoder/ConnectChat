@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-connectchat-staging-193511-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975050216279:role/amplify-connectchat-staging-193511-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975050216279:role/amplify-connectchat-staging-193511-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-connectchat-staging-193511-deployment",
+      "UnauthRoleName": "amplify-connectchat-staging-193511-unauthRole",
+      "StackName": "amplify-connectchat-staging-193511",
+      "StackId": "arn:aws:cloudformation:eu-north-1:975050216279:stack/amplify-connectchat-staging-193511/8ac0a5d0-ac01-11ee-89a0-0624710fa42a",
+      "AmplifyAppId": "d1af3g7g18ni38"
+    },
+    "categories": {
+      "auth": {
+        "ConnectChat": {}
+      }
+    }
+  }
+}
